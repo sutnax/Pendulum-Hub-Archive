@@ -1,3 +1,4 @@
+--This script is from July 29 2022.
 local Global = getgenv and getgenv() or _G
 local setclipboard = setclipboard or print
 Global.Reanimation = Global.Reanimation or "PermaDeath"
